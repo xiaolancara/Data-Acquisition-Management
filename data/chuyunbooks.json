@@ -1,0 +1,12 @@
+[{"book title":"Learning PostgreSOL 11",
+  "author":"Salahaldin Juba, Andrey Volkov",
+  "number of pages":517,
+  "ISNB":"978-1-78953-546-4"},
+ {"book title":"Introduction to Probability",
+  "author":"Dimitri P. Bertsekas, John N. Tsitsiklis",
+  "number of pages":520,
+  "ISNB":"978-1-886529-23-6"},
+ {"book title":"Numerical Analysis",
+  "author":"Timothy Sauer",
+  "number of pages":645,
+  "ISNB":"978-0-13-469645-4"}]
