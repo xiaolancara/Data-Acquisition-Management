@@ -1,0 +1,195 @@
+response.text<?xml version="1.0"?>
+<response>
+  <status>
+    <result>success</result>
+  </status>
+  <request_criteria>
+    <request>
+      <type_of_data>Contracts</type_of_data>
+      <records_from>1</records_from>
+      <max_records>10</max_records>
+      <search_criteria>
+        <criteria>
+          <name>status</name>
+          <type>value</type>
+          <value>active</value>
+        </criteria>
+        <criteria>
+          <name>category</name>
+          <type>value</type>
+          <value>expense</value>
+        </criteria>
+      </search_criteria>
+      <response_columns>
+        <column>prime_contract_id</column>
+        <column>prime_vendor</column>
+        <column>prime_contracting_agency</column>
+        <column>prime_contract_purpose</column>
+        <column>prime_contract_original_amount</column>
+        <column>prime_contract_current_amount</column>
+        <column>prime_vendor_spent_to_date</column>
+        <column>prime_contract_start_date</column>
+        <column>prime_contract_end_date</column>
+        <column>prime_contract_registration_date</column>
+        <column>prime_contract_version</column>
+        <column>prime_contract_type</column>
+        <column>prime_contract_industry</column>
+      </response_columns>
+    </request>
+  </request_criteria>
+  <result_records>
+    <record_count>3517673</record_count>
+    <contract_transactions>
+      <transaction>
+        <prime_contract_id>DO104020214223252</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214219687</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214219073</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214222336</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214213051</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214220623</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214218671</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214221277</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214222805</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+      <transaction>
+        <prime_contract_id>DO104020214222814</prime_contract_id>
+        <prime_vendor>SCHOOL SPECIALTY INC</prime_vendor>
+        <prime_contract_purpose/>
+        <prime_contract_current_amount>0</prime_contract_current_amount>
+        <prime_contract_original_amount>0</prime_contract_original_amount>
+        <prime_vendor_spent_to_date>0</prime_vendor_spent_to_date>
+        <prime_contract_start_date/>
+        <prime_contract_end_date/>
+        <prime_contract_registration_date/>
+        <prime_contracting_agency>Department of Education</prime_contracting_agency>
+        <prime_contract_version>1</prime_contract_version>
+        <prime_contract_type/>
+        <prime_contract_industry/>
+      </transaction>
+    </contract_transactions>
+  </result_records>
+</response>
